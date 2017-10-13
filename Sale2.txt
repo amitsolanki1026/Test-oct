@@ -1,0 +1,15 @@
+PersonName,SaleYear,SaleMonth,SaleAmount
+Aamir,2012,January,100
+Aamir,2012,February,200
+Aamir,2012,March,900
+Aamir,2012,April,456
+Aamir,2012,May,123
+Aamir,2012,June,332
+Aamir,2012,July,543
+Aamir,2012,August,765
+Aamir,2012,September,900
+Aamir,2012,October,100
+Aamir,2012,November,500
+Aamir,2012,December,100
+Aamir,2013,January,20
+Raza,2011,February,1001
